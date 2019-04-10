@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/Planets/bin/Debug/netcoreapp2.2/Planets.deps.json
+/Users/apple/workspace/csharp/exercises/Planets/bin/Debug/netcoreapp2.2/Planets.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/Planets/bin/Debug/netcoreapp2.2/Planets.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/Planets/bin/Debug/netcoreapp2.2/Planets.dll
+/Users/apple/workspace/csharp/exercises/Planets/bin/Debug/netcoreapp2.2/Planets.pdb
+/Users/apple/workspace/csharp/exercises/Planets/obj/Debug/netcoreapp2.2/Planets.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/Planets/obj/Debug/netcoreapp2.2/Planets.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/Planets/obj/Debug/netcoreapp2.2/Planets.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/Planets/obj/Debug/netcoreapp2.2/Planets.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/Planets/obj/Debug/netcoreapp2.2/Planets.dll
+/Users/apple/workspace/csharp/exercises/Planets/obj/Debug/netcoreapp2.2/Planets.pdb
